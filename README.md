@@ -1,1 +1,3 @@
-# GradientBooster-for-Classifying-Flowers
+# GradientBooster for Classifying Flowers
+
+Using GradientBooster to classify flowers.
